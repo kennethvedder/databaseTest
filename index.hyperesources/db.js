@@ -7,7 +7,7 @@ secondText: 'We should look in to storing pos values on another JS, just in bits
 
 numdata = {
 
-boxWidth: 380,
-secboxWidth: 420
+boxWidth: 370,
+secboxWidth: 554
 
 }
