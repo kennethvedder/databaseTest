@@ -1,6 +1,6 @@
 data = {
 
-contentWord: 'Mankind has lost the ability to sleep',
+contentWord: 'Whatevah',
 secondText: 'We should look in to storing pos values on another JS, just in bits and bytes'
 
 }
