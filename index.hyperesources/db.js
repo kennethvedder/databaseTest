@@ -8,6 +8,6 @@ secondText: 'We should look in to storing pos values on another JS, just in bits
 numdata = {
 
 boxWidth: 370,
-secboxWidth: 554
+secboxWidth: 574
 
 }
