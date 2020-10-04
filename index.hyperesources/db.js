@@ -1,13 +1,13 @@
 data = {
 
-contentWord: 'But now we have these',
-secondText: 'Other words, defined by their own'
+contentWord: 'We can still change, by way of just changing the JS',
+secondText: 'We should look in to storing pos values on another JS, just in bits and bytes'
 
 }
 
 numdata = {
 
-boxWidth: 200,
-secboxWidth: 260
+boxWidth: 300,
+secboxWidth: 350
 
 }
