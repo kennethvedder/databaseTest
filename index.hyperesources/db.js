@@ -1,6 +1,6 @@
 data = {
 
-contentWord: 'Whatevah',
+contentWord: 'Updated from Raspberry Pi',
 secondText: 'We should look in to storing pos values on another JS, just in bits and bytes'
 
 }
